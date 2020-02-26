@@ -1,0 +1,8 @@
+set_io clk R9
+set_io  duty_cycle[0] D6
+set_io  duty_cycle[1] C6
+set_io  duty_cycle[2] C7
+set_io  duty_cycle[3] D7
+
+
+set_io A B7
